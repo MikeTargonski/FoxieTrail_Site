@@ -1,0 +1,15 @@
+/*- div -*/
+ft_container
+{
+	margin: 500px;
+	background-color: #F8F8F8;
+	font-size: 180px;
+}
+
+
+
+/*- color -*/
+
+.color_teal,.w3-hover-teal:hover{color:#fff!important;background-color:#009688!important}
+
+
